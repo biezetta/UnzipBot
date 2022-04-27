@@ -1,1 +1,1 @@
-worker: python3 unzipbot.py
+web: bash start.sh
